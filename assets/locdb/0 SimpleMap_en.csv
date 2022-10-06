@@ -1,0 +1,7 @@
+﻿ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
+1,,,Mod name.,,,SimpleMap
+2,,,Mod description.,,,SimpleMap
+3,,,,,,Area
+4,,,,,,"Go to an area, win the game"
+5,,,,,,Capture area
+6,,,,,,You have to go to an area to win the game

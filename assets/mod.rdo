@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--0 SimpleMap/-->
+	<DataObject Name="0 SimpleMap" Type="Mod" Id="16708294823276033070" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">3210503242299667270</DataValue>
+			<!--0 SimpleMap/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="3210503242299667270" OwnerId="16708294823276033070">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="232720042"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="4076439538"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2186622127"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1098567229"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">3626205055844063909</DataValue>
+			<!--0 SimpleMap/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="3626205055844063909" OwnerId="16708294823276033070">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="232720042"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="4076439538"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2186622127"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1098567229"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+

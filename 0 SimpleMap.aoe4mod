@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Essence.Editor.Modding">
+	<DataGenericPath>assets</DataGenericPath>
+	<DataIntermediatePath>cache</DataIntermediatePath>
+	<ID>825534af-ce3d-417a-aa06-df0df287f9f2</ID>
+	<LocDBPath>locdb\0 SimpleMap.locdb</LocDBPath>
+	<Type>Extension</Type>
+</Mod>

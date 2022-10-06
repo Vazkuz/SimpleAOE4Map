@@ -1,0 +1,114 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		512,
+		512,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1000,
+			x = 0.00000,
+			y = -2.39885,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1001,
+			x = 27.66074,
+			y = -43.45183,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "SimpleMap",
+	slots =  
+	{
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

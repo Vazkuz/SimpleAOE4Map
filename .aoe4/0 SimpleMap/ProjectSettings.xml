@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Essence.Editor.Core">
+	<LastDocumentDirectory i:nil="true" />
+	<LastDocumentType>Win Condition</LastDocumentType>
+	<PluginSettings xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+		<d2p1:anyType xmlns:d3p1="http://schemas.datacontract.org/2004/07/Essence.Editor.Controls" i:type="d3p1:FileExplorerProjectSettings">
+			<d3p1:ExpandedPaths>
+				<d2p1:KeyValueOfstringArrayOfstringty7Ep6D1>
+					<d2p1:Key>AssetExplorerGeneric</d2p1:Key>
+					<d2p1:Value>
+						<d2p1:string>assets\scar\winconditions</d2p1:string>
+						<d2p1:string>assets\scenarios\multiplayer\SimpleMap\SimpleMap</d2p1:string>
+						<d2p1:string>assets\scenarios\multiplayer\SimpleMap\SimpleMap.prefabdata</d2p1:string>
+						<d2p1:string>assets\scenarios\multiplayer\SimpleMap\SimpleMap.scenario</d2p1:string>
+					</d2p1:Value>
+				</d2p1:KeyValueOfstringArrayOfstringty7Ep6D1>
+			</d3p1:ExpandedPaths>
+			<d3p1:Version>0</d3p1:Version>
+		</d2p1:anyType>
+		<d2p1:anyType xmlns:d3p1="http://schemas.datacontract.org/2004/07/Essence.Editor.ScriptEditor" i:type="d3p1:ScriptProjectSettings">
+			<d3p1:BookmarkSettings />
+			<d3p1:BreakpointSettings />
+		</d2p1:anyType>
+	</PluginSettings>
+	<RecentFiles>
+		<History xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+			<d3p1:string>C:\Users\dmadalen\AppData\Local\Temp\elimination.scar</d3p1:string>
+			<d3p1:string>C:\Users\dmadalen\AppData\Local\Temp\annihilation.scar</d3p1:string>
+			<d3p1:string>C:\Users\dmadalen\Desktop\Daniel M\2022-3 Fall\AoE Mod (Independent Study)\Mods\0 SimpleMap\assets\scar\Flag-attempt 0.scar</d3p1:string>
+			<d3p1:string>C:\Users\dmadalen\Desktop\Daniel M\2022-3 Fall\AoE Mod (Independent Study)\Mods\0 SimpleMap\assets\scar\winconditions\Flag-attempt 0.rdo</d3p1:string>
+			<d3p1:string>C:\Users\dmadalen\Desktop\Daniel M\2022-3 Fall\AoE Mod (Independent Study)\Mods\0 SimpleMap\assets\scenarios\multiplayer\SimpleMap\SimpleMap.scenario</d3p1:string>
+			<d3p1:string>C:\Users\dmadalen\Desktop\Daniel M\2022-3 Fall\AoE Mod (Independent Study)\Mods\0 SimpleMap\assets\scenarios\multiplayer\SimpleMap\SimpleMap.prefabdata</d3p1:string>
+		</History>
+	</RecentFiles>
+</ProjectSettings>
